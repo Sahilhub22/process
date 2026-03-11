@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1773229395,,"wq!"
+|2,0,1773231725,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,31 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/index.html
-|4,48,2,0,1773229395,"~/index.html"
+'0  1  2  ~/basicp.py
+|4,48,1,2,1773231725,"~/basicp.py"
+'1  2  0  ~/index.html
+|4,49,2,0,1773229395,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  2  ~/basicp.py
+|4,39,1,2,1773231725,"~/basicp.py"
+-'  2  0  ~/index.html
+|4,39,2,0,1773229395,"~/index.html"
 -'  2  0  ~/index.html
 |4,39,2,0,1773229395,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1773229377,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1773229377,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/basicp.py
+	*	1773231721	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
 > ~/index.html
 	*	1773229392	0
