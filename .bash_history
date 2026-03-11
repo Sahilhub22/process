@@ -6,3 +6,9 @@ nano text
 cat text2
 cp text text2
 cat text2
+git init
+sudo yum update
+sudo yum install git -y
+git init
+git add .
+git commit -m "Initial commit"
